@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "383043148663",
+    "project_id": "apicrudandroid",
+    "storage_bucket": "apicrudandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383043148663:android:3b757aea6761fafee45f72",
+        "android_client_info": {
+          "package_name": "com.example.api_crud_vothanhcong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383043148663-gefb6n1rbooppa5s7fv88ch7ld3552c2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvoQtPQJSMcrw-n_cil-rJ25Xyej5Xpj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383043148663-gefb6n1rbooppa5s7fv88ch7ld3552c2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
